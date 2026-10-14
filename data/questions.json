@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "question": "What is a variable in Python?",
+        "unit": 1,
+        "difficulty": "easy",
+        "marks": 2,
+        "topic": "Python Basics"
+    },
+    {
+        "id": 2,
+        "question": "Explain Python data types.",
+        "unit": 1,
+        "difficulty": "easy",
+        "marks": 2,
+        "topic": "Python Basics"
+    },
+    {
+        "id": 3,
+        "question": "Explain operators in Python with examples.",
+        "unit": 1,
+        "difficulty": "easy",
+        "marks": 2,
+        "topic": "Python Basics"
+    },
+    {
+        "id": 4,
+        "question": "Explain conditional statements in Python.",
+        "unit": 1,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Control Flow"
+    },
+    {
+        "id": 5,
+        "question": "Explain loops in Python with examples.",
+        "unit": 1,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Control Flow"
+    },
+    {
+        "id": 6,
+        "question": "Explain list comprehension with an example.",
+        "unit": 2,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Data Structures"
+    },
+    {
+        "id": 7,
+        "question": "Explain tuples and dictionaries.",
+        "unit": 2,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Data Structures"
+    },
+    {
+        "id": 8,
+        "question": "Compare lists, tuples and sets.",
+        "unit": 2,
+        "difficulty": "hard",
+        "marks": 10,
+        "topic": "Data Structures"
+    },
+    {
+        "id": 9,
+        "question": "Explain stacks and queues with applications.",
+        "unit": 2,
+        "difficulty": "hard",
+        "marks": 10,
+        "topic": "Data Structures"
+    },
+    {
+        "id": 10,
+        "question": "Explain object-oriented programming in Python.",
+        "unit": 3,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "OOP"
+    },
+    {
+        "id": 11,
+        "question": "Explain classes and objects.",
+        "unit": 3,
+        "difficulty": "easy",
+        "marks": 2,
+        "topic": "OOP"
+    },
+    {
+        "id": 12,
+        "question": "Explain inheritance with an example.",
+        "unit": 3,
+        "difficulty": "hard",
+        "marks": 10,
+        "topic": "OOP"
+    },
+    {
+        "id": 13,
+        "question": "Explain polymorphism in Python.",
+        "unit": 3,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "OOP"
+    },
+    {
+        "id": 14,
+        "question": "Explain encapsulation and abstraction.",
+        "unit": 3,
+        "difficulty": "hard",
+        "marks": 10,
+        "topic": "OOP"
+    },
+    {
+        "id": 15,
+        "question": "Explain decorators in Python.",
+        "unit": 4,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Advanced Python"
+    },
+    {
+        "id": 16,
+        "question": "Explain generators in Python.",
+        "unit": 4,
+        "difficulty": "easy",
+        "marks": 2,
+        "topic": "Advanced Python"
+    },
+    {
+        "id": 17,
+        "question": "Explain iterators in Python.",
+        "unit": 4,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Advanced Python"
+    },
+    {
+        "id": 18,
+        "question": "Explain lambda functions and functional programming.",
+        "unit": 4,
+        "difficulty": "hard",
+        "marks": 10,
+        "topic": "Functional Programming"
+    },
+    {
+        "id": 19,
+        "question": "Explain map, filter and reduce functions.",
+        "unit": 4,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Functional Programming"
+    },
+    {
+        "id": 20,
+        "question": "Explain exception handling in Python.",
+        "unit": 5,
+        "difficulty": "easy",
+        "marks": 2,
+        "topic": "Exception Handling"
+    },
+    {
+        "id": 21,
+        "question": "Explain file handling in Python.",
+        "unit": 5,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "File Handling"
+    },
+    {
+        "id": 22,
+        "question": "Develop a Python program using file handling.",
+        "unit": 5,
+        "difficulty": "hard",
+        "marks": 10,
+        "topic": "File Handling"
+    },
+    {
+        "id": 23,
+        "question": "Explain multithreading in Python.",
+        "unit": 5,
+        "difficulty": "medium",
+        "marks": 5,
+        "topic": "Concurrency"
+    },
+    {
+        "id": 24,
+        "question": "Explain multiprocessing and the Python GIL.",
+        "unit": 5,
+        "difficulty": "hard",
+        "marks": 10,
+        "topic": "Concurrency"
+    }
+]
